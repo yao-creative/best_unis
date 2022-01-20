@@ -1,0 +1,101 @@
+,University,pba_rank,times_rank,usnews_rank,jt_rank,num_students,price
+0,Harvard University,1,1,1,1,19257,36173
+1,Princeton University,2,3,2,7,7334,34290
+2,Massachusetts Institute of Technology,3,6,4,4,1022,36390
+3,Yale University,3,2,3,9,11454,35300
+4,California Institute of Technology,5,4,6,5,2133,34437
+5,Stanford University,6,11,4,2,19782,36030
+6,University of Chicago,7,4,8,8,12336,37632
+7,Columbia University,8,7,8,6,22655,39326
+8,University of Pennsylvania,9,9,6,13,18916,37526
+9,Cornell University,10,12,14,10,19852,36504
+10,University of California Berkeley,11,14,21,3,34953,29540
+11,Duke University,11,8,8,22,13598,37525
+12,Johns Hopkins University,13,10,15,16,19737,37700
+13,Northwestern University,14,15,12,20,18028,37125
+14,University of California Los Angeles,15,18,25,11,38896,26102
+15,University of Michigan Ann Arbor,16,17,26,17,41042,32401
+16,Carnegie Mellon University,17,12,22,36,10493,38844
+17,UC San Diego,18,24,35,12,27020,28932
+18,Brown University,18,16,16,39,8167,37718
+19,University of Wisconsin Madison,20,22,35,15,42041,21818
+20,New York University,21,20,33,21,41783,37372
+21,Vanderbilt University,22,31,18,27,11847,37005
+22,University of Washington,23,22,41,14,40218,23219
+23,University of Illinois,24,26,40,18,42326,25334
+24,Washington University,24,53,12,19,13382,37248
+25,Dartmouth College,26,25,11,51,5849,36915
+26,"University of Texas, Austin",27,21,47,26,50170,25722
+27,Rice University,28,34,17,45,5243,28996
+28,Emory University,29,27,18,51,1257,36336
+29,University of Southern California,30,41,27,33,33408,37740
+30,Pennsylvania State University,31,33,47,28,43252,24940
+31,University of Maryland College Park,31,30,53,25,35970,23076
+32,University of California Davis,33,36,44,29,29796,28656
+33,University of Rochester,34,35,35,41,9334,37250
+34,University of Virginia,35,40,23,51,24257,29600
+35,"University of North Carolina, Chapel Hill",35,49,30,35,28136,22294
+36,Case Western Reserve University,37,32,41,42,9844,34252
+37,University of Pittsburgh,38,28,58,32,27020,23290
+38,University of California Irvine,39,47,44,30,26483,27176
+39,Georgia Institute of Technology,40,37,35,51,18742,21386
+40,Boston University,40,19,60,44,32053,37050
+41,University of Florida,41,45,49,34,51725,21400
+42,Tufts University,43,51,28,51,9758,38840
+43,University of Minnesota Twin Cities,44,48,61,23,50883,14634
+44,"Purdue University, West Lafayette",44,28,66,38,39102,23224
+45,Georgetown University,46,38,23,73,14826,38122
+46,Ohio State University Columbus,47,42,56,37,52568,21918
+47,University of Colorado Boulder,48,39,77,24,31470,24936
+48,University of Notre Dame,49,50,18,73,11733,36847
+49,Rutgers the State University of New Jersey New Brunswick,50,55,64,31,34804,21488
+50,"Texas A&M University, College Station",51,43,64,47,46542,16274
+51,Wake Forest University,52,58,28,73,6788,36975
+52,UC Santa Barbara,53,68,44,51,21410,29181
+53,Brandeis University,54,60,31,73,5333,37294
+54,Michigan State University,55,52,71,43,46045,26134
+55,University of Miami,56,57,51,62,15449,34834
+56,Rensselaer,56,56,41,73,7299,37990
+57,"Indiana University, Bloomington",58,56,71,46,38990,24769
+58,University of Iowa,59,59,66,50,29117,20658
+59,University of Arizona,60,44,96,40,37217,18676
+60,University of Georgia,61,76,58,51,33831,22342
+61,George Washington University,62,63,53,73,25078,38530
+62,Virginia Tech,63,64,71,62,29898,19605
+63,"North Carolina State University, Raleigh",64,64,83,51,31802,17584
+64,Tulane University,65,61,51,90,10519,38664
+65,"University of Massachusetts, Amherst",66,54,102,51,25873,18450
+66,University of Connecticut,67,80,66,62,23692,24050
+67,Yeshiva University,68,87,50,73,6358,32094
+68,College of William and Mary,69,78,32,101,7795,29326
+69,University of Delaware,70,81,71,62,19677,21126
+70,"University of California, Santa Cruz",71,68,96,51,15825,28894
+71,Syracuse University,72,90,53,73,19084,33439
+72,"University of California, Riverside",73,77,89,51,17187,28454
+73,University of Alabama,74,73,83,62,25544,18000
+74,Iowa State University,75,71,89,62,26160,17350
+75,Boston College,76,90,34,101,13723,37950
+76,Lehigh University,77,90,35,101,6845,37550
+77,Florida State University,78,66,102,62,40555,17916
+78,Arizona State University,79,62,121,49,51481,17949
+79,University of Kansas,80,72,89,73,28569,17119
+80,Clemson University,81,90,61,90,17585,23401
+81,University of Nebraska,81,90,89,62,22973,17106
+82,University of Tennessee,83,75,108,62,29937,18728
+83,University of Utah,84,70,127,48,28025,16796
+84,SUNY Stony Brook,85,90,96,62,23347,12018
+85,University of Vermont,86,90,89,73,12239,29682
+86,Pepperdine University,87,90,56,109,7582,36770
+87,"University of Missouri, Columbia",88,87,96,73,28477,19514
+88,Southern Methodist University,89,90,66,101,10829,33170
+89,Drexel University,89,67,89,101,16271,30440
+90,Fordham University,91,90,61,109,14448,34831
+91,St. Louis University,91,90,80,90,12309,30728
+92,Washington State University,93,74,116,73,24396,18601
+93,University of Oregon,94,83,108,73,20332,19428
+94,"Miami University, Oxford",95,90,66,109,15922,25824
+95,University of South Carolina,95,84,108,73,27272,22908
+96,Colorado State University,97,79,125,62,27569,21590
+97,Worcester Polytechnic Institute,98,90,71,109,4157,36390
+98,Baylor University,99,90,76,109,14174,26234
+99,University of Kentucky,100,86,116,73,25856,15884
