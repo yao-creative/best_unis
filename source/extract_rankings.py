@@ -13,7 +13,8 @@ def main():
     with open("../unirev_best_unis.html", "wb") as infile:
         infile.write(r.content)
     r2 = requests.get(url2)
-    with open()
+    with open("../qs_best_unis.html", "wb") as infile2:
+        infile2.write(r2.content)
     # OBSOLETE CODE TO EXTRACT TABLES
     # with open("../unirev_best_unis.html", "rb") as outfile: #Retrieve downloaded webpage
     #     content = outfile.read()

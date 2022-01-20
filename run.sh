@@ -1,0 +1,1 @@
+python3 source/extract_rankings.py
